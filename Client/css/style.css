@@ -1,0 +1,19 @@
+h1 {
+    border-bottom: 1px solid grey;
+    margin-top: 40px;
+}
+img {
+    width: 20px;
+	height: 20px;
+    vertical-align: baseline;
+}
+.greyBottom{
+    border-bottom: 1px solid #dddddd;
+}
+.mycontent-left{
+    border-right: 1px solid #dddddd;
+}
+.affichenumero{
+    border-right: 1px solid #FF0000
+    background: #FF0000
+}
